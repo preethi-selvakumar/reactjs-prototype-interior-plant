@@ -7,7 +7,7 @@ import { categoryItems } from "../data/categoryItems";
 import PlantFoodCollection from "../components/PlantFoodCollection";
 
 
-const LargeIndoorPlants = () => {
+const PlantFood = () => {
     return (
         <div className="plant-food">
             <Header />
@@ -18,4 +18,4 @@ const LargeIndoorPlants = () => {
     );
 };
 
-export default LargeIndoorPlants;
+export default PlantFood;
